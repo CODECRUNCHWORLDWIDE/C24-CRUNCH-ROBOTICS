@@ -1,0 +1,33 @@
+C24 Crunch Robotics — Intelligent Robotics & Autonomy
+Copyright (C) 2026 Code Crunch Club and contributors.
+
+This curriculum, including its prose, exercises, lab specifications,
+quizzes, mini-projects, and capstone briefs, is licensed under the
+GNU General Public License, version 3.0 (GPL-3.0-or-later).
+
+You are free to:
+  - copy, study, and redistribute this material;
+  - adapt it for your own classroom, bootcamp, or self-study group;
+  - publish derivative work,
+
+provided that any redistributed or derivative version remains under
+the same GPL-3.0-or-later license, retains this notice, and credits
+the Code Crunch Club curriculum council as the original source.
+
+Source code samples carried inside this curriculum (Python, C++,
+ROS2 packages, URDF, launch files, CMakeLists, Dockerfiles, and
+shell snippets) inherit the same license unless an upstream package
+is referenced verbatim, in which case the upstream license governs
+that excerpt.
+
+Third-party logos, trademarks, and product names (ROS2, Gazebo,
+NVIDIA Isaac Sim, MoveIt, Nav2, OpenCV, PyTorch, Open3D, Foxglove,
+PlotJuggler, ODrive, RealSense, Azure Kinect, OAK-D, TurtleBot,
+MyCobot, PiArm, Jetson, Raspberry Pi, and any others mentioned)
+remain the property of their respective owners and are referenced
+under nominative fair use.
+
+Full license text: https://www.gnu.org/licenses/gpl-3.0.en.html
+
+For the complete GPL-3.0 text in this repository, see the root
+`LICENSE` of the Code Crunch Club monorepo.
