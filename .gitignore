@@ -2,3 +2,8 @@
 # macOS metadata (external drive)
 ._*
 .DS_Store
+
+# macOS filesystem junk
+.AppleDouble
+.Spotlight-V100
+.Trashes
